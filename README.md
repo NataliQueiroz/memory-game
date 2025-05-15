@@ -5,7 +5,7 @@
 
 Trabalho final do projeto da matéria de Desenvolvimento Web em HTML5, Css, Javascript e PHP.
 
-Criado por Natali Queiroz, Deborah Rayane, Kauan Salles e Maykon Douglas dos Santos.
+Criado por Natali Queiroz.
 
 Ministrada por Luiz Wanderley Nagata Balduino.
 
